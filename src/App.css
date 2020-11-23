@@ -1,0 +1,13 @@
+.App {
+  margin: 0 auto;
+  width: max-content;
+}
+
+.final-price {
+  text-align: center;
+}
+
+form {
+  width: max-content;
+  margin: 0 auto;
+}
